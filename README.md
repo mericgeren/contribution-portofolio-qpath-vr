@@ -2,7 +2,7 @@
 
 ## Disclaimer  
 
->This repository does not contain any source code or documentation as the project in question is the intellectuonal property of Paranavision. This repository only exist as a record of my involvment in the project.
+>This repository does not contain any source code or documentation as the project in question is the intellectual property of Paranavision. This repository only exist as a record of my involvment in the project.
 
 ## Overview
 
